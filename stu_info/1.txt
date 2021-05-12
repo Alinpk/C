@@ -1,0 +1,5 @@
+Hzj 	23	male	18810535172
+Ada		19	female	1238192
+Ans		22	male 	2133112312
+Keal	21 	male	13412321123
+    readInfoFromFile(HeadNode, filename);
